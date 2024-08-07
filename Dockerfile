@@ -5,3 +5,5 @@ WORKDIR /app
 RUN npm install
 
 CMD ["node", "server.js"]
+
+git add readme 
